@@ -1,6 +1,8 @@
 ## Sheikh Umar 👋
 
 I am a Software Developer with a keen interest in building applications and improving as a programmer.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shumarb)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **shumarb/shumarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
