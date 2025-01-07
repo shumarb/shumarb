@@ -1,5 +1,6 @@
 ## Sheikh Umar 👋
 
+I am a Software Developer with a keen interest in building applications and improving as a programmer.
 <!--
 **shumarb/shumarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
