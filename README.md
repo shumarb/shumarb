@@ -2,6 +2,7 @@
 
 Hi! I am Umar. I am a Software Developer with a keen interest in building applications and improving as a programmer.
 
+[![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shumarb)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shumarb&layout=compact)
 
 <!--
