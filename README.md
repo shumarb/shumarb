@@ -4,6 +4,20 @@ Hi! I am Umar. I am a Software Developer with a keen interest in building applic
 
 ![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shumarb&theme=github_dark&show_icons=true)
 
+🎓Education
+- Bachelor of Computing (Computer Science), National University of Singapore.
+
+🔧 Technologies & Tools 
+- Languages: Java, C, SQL.
+- Frameworks: Spring Boot.
+- Testing: JUnit, Mockito.
+- Version Control: Git.
+- Databases: MySQL, PostgreSQL.
+- Operating Systems: Unix.
+
+📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/shumarb/)
+
 <!--
 **shumarb/shumarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
