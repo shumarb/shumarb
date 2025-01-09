@@ -1,6 +1,9 @@
 ## Sheikh Umar 👋
 
-Hi! I am Umar. I am a Software Developer with a keen interest in building applications and improving as a programmer.
+Hi!
+I am Umar.
+I am a Software Developer with 1+ years of experience in application development, 
+and committed to learning on software development and improving as a programmer.
 
 ![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shumarb&theme=github_dark&show_icons=true)
 
