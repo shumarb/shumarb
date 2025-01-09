@@ -27,4 +27,4 @@ free to contact me via [email](mailto:shumarb@outlook.com) or [LinkedIn](https:/
 
 ## GitHub Statistics
 ![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shumarb&theme=github_dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shumarb&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shumarb&layout=compact&theme=dark)
