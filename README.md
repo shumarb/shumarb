@@ -9,7 +9,7 @@ and [improving](https://github.com/shumarb/training) as a programmer.
 ![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shumarb&theme=github_dark&show_icons=true)
 
 🎓Education
-- pBachelor of Computing (Computer Science)](https://github.com/shumarb/coursework), National University of Singapore.
+- [Bachelor of Computing (Computer Science)](https://github.com/shumarb/coursework), National University of Singapore.
 
 🔧 Technologies & Tools 
 - Languages: Java, C, SQL, HTML, CSS.
