@@ -1,4 +1,4 @@
-## Sheikh Umar 👋
+# Sheikh Umar 👋
 
 Hi!
 I am Umar, a Software Developer based in Singapore 🇸🇬.
@@ -10,10 +10,10 @@ If you would like to get in touch,
 please feel
 free to contact me via [email](mailto:shumarb@outlook.com) or [LinkedIn](https://www.linkedin.com/in/shumarb/).
 
-🎓Education
+## 🎓Education
 - [Bachelor of Computing (Computer Science)](https://github.com/shumarb/coursework), National University of Singapore.
 
-🔧 Technologies & Tools 
+## 🔧 Technologies & Tools 
 - Languages: Java, C, SQL, HTML, CSS.
 - Frameworks: Spring Boot.
 - Testing: JUnit, Mockito.
@@ -21,8 +21,10 @@ free to contact me via [email](mailto:shumarb@outlook.com) or [LinkedIn](https:/
 - Databases: MySQL, PostgreSQL.
 - Operating Systems: Unix.
 
-🌱 Interests
+## 🌱 Interests
 - Software Development
 - [Competitive Programming](https://github.com/shumarb/training/tree/main/competitive-programming)
 
+## GitHub Statistics
 ![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shumarb&theme=github_dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shumarb&layout=compact)
