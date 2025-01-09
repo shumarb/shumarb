@@ -6,7 +6,7 @@ I have 1+ years of experience in [application development](https://github.com/sh
 and committed to [learning](https://github.com/shumarb/learning) on software development
 and [improving](https://github.com/shumarb/training) as a programmer.
 
-[Umar's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=shumarb&theme=github_dark&show_icons=true)
+[![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shumarb)](https://github.com/shumarb/github-readme-stats)
 
 🎓Education
 - [Bachelor of Computing (Computer Science)](https://github.com/shumarb/coursework), National University of Singapore.
