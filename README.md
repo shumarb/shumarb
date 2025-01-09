@@ -10,7 +10,7 @@ My most-proficient skills are Java, Spring Boot, JUnit, Git, HTML, and MySQL.
 
 If you would like to get in touch,
 please feel
-free to contact me via [Email](mailto:shumarb@outlook.com) or [LinkedIn](https://www.linkedin.com/in/shumarb/).
+free to contact me via [email](mailto:shumarb@outlook.com) or [LinkedIn](https://www.linkedin.com/in/shumarb/).
 
 ![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shumarb&theme=github_dark&show_icons=true)
 
