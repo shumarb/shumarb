@@ -11,7 +11,7 @@ and committed to learning on software development and improving as a programmer.
 - Bachelor of Computing (Computer Science), National University of Singapore.
 
 🔧 Technologies & Tools 
-- Languages: Java, C, SQL.
+- Languages: Java, C, SQL, HTML, CSS.
 - Frameworks: Spring Boot.
 - Testing: JUnit, Mockito.
 - Version Control: Git.
