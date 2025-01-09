@@ -3,8 +3,13 @@
 Hi!
 I am Umar, a Software Developer based in Singapore 🇸🇬.
 I have 1+ years of experience in [application development](https://github.com/shumarb/projects), 
-and committed to [learning](https://github.com/shumarb/learning) on software development
+and I am committed to [learning](https://github.com/shumarb/learning) on software development
 and [improving](https://github.com/shumarb/training) as a programmer.
+My most-proficient skills are Java, Spring Boot, JUnit, Git, HTML, and MySQL.
+
+If you would like to get in touch,
+please feel
+free to contact me via [Email](mailto:shumarb@outlook.com) or [LinkedIn](https://www.linkedin.com/in/shumarb/)
 
 ![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shumarb&theme=github_dark&show_icons=true)
 
@@ -19,6 +24,3 @@ and [improving](https://github.com/shumarb/training) as a programmer.
 - Databases: MySQL, PostgreSQL.
 - Operating Systems: Unix.
 
-📫 Contact:
-- [Email](mailto:shumarb@outlook.com)
-- [LinkedIn](https://www.linkedin.com/in/shumarb/)
