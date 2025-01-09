@@ -2,8 +2,9 @@
 
 Hi!
 I am Umar, a Software Developer based in Singapore 🇸🇬.
-I have 1+ years of experience in [application development](https://github.com/shumarb/projects), 
-and I am committed to [learning](https://github.com/shumarb/learning) on software development
+I have 1+ years of experience in [application development](https://github.com/shumarb/projects), and my interests are in software development
+and [competitive programming](https://github.com/shumarb/training/tree/main/competitive-programming).
+I am committed to [learning](https://github.com/shumarb/learning)
 and [improving](https://github.com/shumarb/training) as a programmer.
 My most-proficient skills are Java, Spring Boot, JUnit, Git, HTML, and MySQL.
 
