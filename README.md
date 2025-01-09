@@ -20,5 +20,5 @@ and [improving](https://github.com/shumarb/training) as a programmer.
 - Operating Systems: Unix.
 
 📫 Contact:
-- [Email](mailto: shumarb@outlook.com)
+- [Email](mailto:shumarb@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/shumarb/)
