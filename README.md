@@ -11,7 +11,7 @@ If you would like to get in touch,
 please feel
 free to contact me via [email](mailto:shumarb@outlook.com) or [LinkedIn](https://www.linkedin.com/in/shumarb/).
 
-## 🎓Education
+## 🎓 Education
 - [Bachelor of Computing (Computer Science)](https://github.com/shumarb/coursework), National University of Singapore.
 
 ## 🔧 Technologies & Tools 
