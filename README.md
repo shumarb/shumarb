@@ -27,5 +27,6 @@ free to contact me via [email](mailto:shumarb@outlook.com) or [LinkedIn](https:/
 - [Competitive Programming](https://github.com/shumarb/training/tree/main/competitive-programming)
 
 ## 📊 Statistics
-![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shumarb&theme=github_dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shumarb&layout=compact&theme=github_dark)
+![Umar's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=shumarb&theme=github_dark&show_icons=true)
+![Umar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shumarb&layout=compact&theme=github_dark)
+![Umar's LeetCode Statistics](https://leetcard.jacoblin.cool/shumarb?theme=dark)
