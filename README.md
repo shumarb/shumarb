@@ -2,7 +2,8 @@
 
 Hi!
 I am Umar, a Software Developer based in Singapore 🇸🇬.
-I have 1+ years of experience in [application development](https://github.com/shumarb/projects),
+I have 1+ years of experience in [application development](https://github.com/shumarb/projects)
+involving Java and Spring Boot,
 and I am dedicated to [learning](https://github.com/shumarb/learning)
 and [improving](https://github.com/shumarb/training) as a programmer.
 
@@ -25,6 +26,6 @@ free to contact me via [email](mailto:shumarb@outlook.com) or [LinkedIn](https:/
 - Software Development
 - [Competitive Programming](https://github.com/shumarb/training/tree/main/competitive-programming)
 
-## GitHub Statistics
+## 📊GitHub Statistics
 ![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shumarb&theme=github_dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shumarb&layout=compact&theme=github_dark)
