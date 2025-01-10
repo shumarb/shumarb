@@ -2,7 +2,7 @@
 
 Hi!
 I am Umar, a Software Developer based in Singapore 🇸🇬.
-I have 1+ years of experience in [application development](https://github.com/shumarb/projects)
+I have 1+ years of experience in application development [projects](https://github.com/shumarb/projects)
 involving Java and Spring Boot,
 and I am dedicated to continuous [learning](https://github.com/shumarb/learning)
 and [improvement](https://github.com/shumarb/improvement).
