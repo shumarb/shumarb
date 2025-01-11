@@ -8,8 +8,8 @@ and I am dedicated to continuous [learning](https://github.com/shumarb/learning)
 and [improvement](https://github.com/shumarb/improvement).
 
 Free to contact me via:
-- 📧 [Email](mailto:shumarb@outlook.com)
-- <a href="https://www.linkedin.com/in/shumarb/"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="20"/> LinkedIn</a>
+- 📧  [Email](mailto:shumarb@outlook.com)
+- <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" width="20"/>[LinkedIn](https://www.linkedin.com/in/shumarb/)
 
 
 ## 🎓 Education
