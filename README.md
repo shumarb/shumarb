@@ -1,10 +1,12 @@
 # Sheikh Umar 👋
-
 Hi!
 I am Umar, a Software Developer based in Singapore 🇸🇬.
-I have 1+ years of experience in application development [projects](https://github.com/shumarb/projects)
-with Java and Spring Boot,
-and I am dedicated to continuous [learning](https://github.com/shumarb/learning)
+
+I have 1+ years of experience in application development,
+working with Java and Spring Boot on various [projects](https://github.com/shumarb/projects).
+
+I am dedicated to [learning](https://github.com/shumarb/learning),
+[programming](https://github.com/shumarb/competitive-programming),
 and [improvement](https://github.com/shumarb/improvement).
 
 If you would like to get in touch,
@@ -21,10 +23,6 @@ free to contact me via [email](mailto:shumarb@outlook.com) or [LinkedIn](https:/
 - Version Control: Git.
 - Databases: MySQL, PostgreSQL.
 - Operating Systems: Unix.
-
-## 🌱 Interests
-- Software Development
-- [Competitive Programming](https://github.com/shumarb/training/tree/main/competitive-programming)
 
 ## 📊 Statistics
 ![Umar's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=shumarb&theme=github_dark&show_icons=true)
