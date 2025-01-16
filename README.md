@@ -6,7 +6,7 @@ I have 1+ years of experience in application development,
 working with Java and Spring Boot on various [projects](https://github.com/shumarb/projects).
 
 I am dedicated to [learning](https://github.com/shumarb/learning),
-[programming](https://github.com/shumarb/competitive-programming),
+[programming](https://github.com/shumarb/programming),
 and [improvement](https://github.com/shumarb/improvement).
 
 If you would like to get in touch,
