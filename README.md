@@ -18,19 +18,19 @@ and [improvement](https://github.com/shumarb/improvement).
 [![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/shumarb/ "LeetCode")
 
 ## 💻 Skills
-<span><img src="https://go-skill-icons.vercel.app/api/icons?i=java" alt="Java" /></span>
-<span><img src="https://go-skill-icons.vercel.app/api/icons?i=spring" alt="Spring" /></span>
-<span><img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="Git" /></span>
-<span><img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="GitHub" /></span>
-<span><img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab" alt="GitLab" /></span>
-<span><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" alt="MySQL" /></span>
-<span><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" alt="PostgreSQL" /></span>
-<span><img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="C" /></span>
-<span><img src="https://go-skill-icons.vercel.app/api/icons?i=html" alt="HTML" /></span>
-<span><img src="https://go-skill-icons.vercel.app/api/icons?i=css" alt="CSS" /></span>
-<span><img src="https://go-skill-icons.vercel.app/api/icons?i=maven" alt="Maven" /></span>
-<span><img src="https://go-skill-icons.vercel.app/api/icons?i=postman" alt="Postman" /></span>
-<span><img src="https://go-skill-icons.vercel.app/api/icons?i=bash" alt="Bash Scripting" /></span>
+![Java](https://go-skill-icons.vercel.app/api/icons?i=java "Java")
+![Spring](https://go-skill-icons.vercel.app/api/icons?i=spring "Spring")
+![Git](https://go-skill-icons.vercel.app/api/icons?i=git "Git")
+![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github "GitHub")
+![GitLab](https://go-skill-icons.vercel.app/api/icons?i=gitlab "GitLab")
+![MySQL](https://go-skill-icons.vercel.app/api/icons?i=mysql "MySQL")
+![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgresql "PostgreSQL")
+![C](https://go-skill-icons.vercel.app/api/icons?i=c "C")
+![HTML](https://go-skill-icons.vercel.app/api/icons?i=html "HTML")
+![CSS](https://go-skill-icons.vercel.app/api/icons?i=css "CSS")
+![Maven](https://go-skill-icons.vercel.app/api/icons?i=maven "Maven")
+![Postman](https://go-skill-icons.vercel.app/api/icons?i=postman "Postman")
+![Bash Scripting](https://go-skill-icons.vercel.app/api/icons?i=bash "Bash Scripting")
 
 ## 📊 Statistics
 ![Umar's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=shumarb&theme=github_dark&show_icons=true)
