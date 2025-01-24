@@ -12,12 +12,12 @@ I am committed to [learning](https://github.com/shumarb/learning),
 [programming](https://github.com/shumarb/programming),
 and [improvement](https://github.com/shumarb/improvement).
 
-## 👨🏻‍💻Profiles
+## 👨🏻‍💻 Profiles
 [![Email](https://go-skill-icons.vercel.app/api/icons?i=outlook)](mailto:shumarb@outlook.com "Email")
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/shumarb/ "LinkedIn")
 [![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/shumarb/ "LeetCode")
 
-## 💻Skills
+## 💻 Skills
 ![Java](https://go-skill-icons.vercel.app/api/icons?i=java "Java")
 ![C](https://go-skill-icons.vercel.app/api/icons?i=c "C")
 ![Spring](https://go-skill-icons.vercel.app/api/icons?i=spring "Spring")
