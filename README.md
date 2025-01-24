@@ -13,9 +13,9 @@ I am committed to [learning](https://github.com/shumarb/learning),
 and [improvement](https://github.com/shumarb/improvement).
 
 ## Profiles
-[![Email](https://go-skill-icons.vercel.app/api/icons?i=outlook)](mailto:shumarb@outlook.com)
-[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/shumarb/)
-[![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/shumarb/)
+[![Email](https://go-skill-icons.vercel.app/api/icons?i=outlook)](mailto:shumarb@outlook.com "Email")
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/shumarb/ "LinkedIn")
+[![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/shumarb/ "LeetCode")
 
 ## 💻 Tech Stack
 [![Java](https://go-skill-icons.vercel.app/api/icons?i=java)](https://go-skill-icons.vercel.app/api/icons?i=java "Java")
@@ -25,9 +25,11 @@ and [improvement](https://github.com/shumarb/improvement).
 [![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)](https://go-skill-icons.vercel.app/api/icons?i=github "GitHub")
 [![GitLab](https://go-skill-icons.vercel.app/api/icons?i=gitlab)](https://go-skill-icons.vercel.app/api/icons?i=gitlab "GitLab")
 [![MySQL](https://go-skill-icons.vercel.app/api/icons?i=mysql)](https://go-skill-icons.vercel.app/api/icons?i=mysql "MySQL")
+[![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgresql)](https://go-skill-icons.vercel.app/api/icons?i=postgresql "PostgreSQL")
 [![HTML](https://go-skill-icons.vercel.app/api/icons?i=html)](https://go-skill-icons.vercel.app/api/icons?i=html "HTML")
 [![CSS](https://go-skill-icons.vercel.app/api/icons?i=css)](https://go-skill-icons.vercel.app/api/icons?i=css "CSS")
 [![Postman](https://go-skill-icons.vercel.app/api/icons?i=postman)](https://go-skill-icons.vercel.app/api/icons?i=postman "Postman")
+[![Bash Scripting](https://go-skill-icons.vercel.app/api/icons?i=bash)](https://go-skill-icons.vercel.app/api/icons?i=bash "Bash Scripting")
 
 ## 📊 Statistics
 ![Umar's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=shumarb&theme=github_dark&show_icons=true)
