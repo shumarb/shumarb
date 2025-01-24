@@ -1,6 +1,6 @@
 # Sheikh Umar 👋
 
-## 💫 About Me
+## 💫 Background
 Hi!
 I am Umar, a Software Developer based in Singapore 🇸🇬.
 
@@ -17,7 +17,7 @@ and [improvement](https://github.com/shumarb/improvement).
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/shumarb/ "LinkedIn")
 [![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/u/shumarb/ "LeetCode")
 
-## 💻 Tech Stack
+## 💻Skills
 ![Java](https://go-skill-icons.vercel.app/api/icons?i=java "Java")
 ![C](https://go-skill-icons.vercel.app/api/icons?i=c "C")
 ![Spring](https://go-skill-icons.vercel.app/api/icons?i=spring "Spring")
