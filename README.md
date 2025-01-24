@@ -19,13 +19,13 @@ and [improvement](https://github.com/shumarb/improvement).
 
 ## 💻 Skills
 ![Java](https://go-skill-icons.vercel.app/api/icons?i=java "Java")
-![C](https://go-skill-icons.vercel.app/api/icons?i=c "C")
 ![Spring](https://go-skill-icons.vercel.app/api/icons?i=spring "Spring")
 ![Git](https://go-skill-icons.vercel.app/api/icons?i=git "Git")
 ![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github "GitHub")
 ![GitLab](https://go-skill-icons.vercel.app/api/icons?i=gitlab "GitLab")
 ![MySQL](https://go-skill-icons.vercel.app/api/icons?i=mysql "MySQL")
 ![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgresql "PostgreSQL")
+![C](https://go-skill-icons.vercel.app/api/icons?i=c "C")
 ![HTML](https://go-skill-icons.vercel.app/api/icons?i=html "HTML")
 ![CSS](https://go-skill-icons.vercel.app/api/icons?i=css "CSS")
 ![Maven](https://go-skill-icons.vercel.app/api/icons?i=maven "Maven")
