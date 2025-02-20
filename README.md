@@ -8,9 +8,7 @@ I earned a [Bachelor of Computing (Computer Science)](https://github.com/shumarb
 and have 1+ years of experience in application development [projects](https://github.com/shumarb/projects),
 specialising in Java and Spring Boot.
 
-I am committed to [learning](https://github.com/shumarb/learning),
-[programming](https://github.com/shumarb/programming),
-and [improvement](https://github.com/shumarb/improvement).
+I am committed to [learning](https://github.com/shumarb/learning) and [improvement](https://github.com/shumarb/improvement).
 
 ## 👨🏻‍💻 Profiles
 [![Email](https://go-skill-icons.vercel.app/api/icons?i=outlook)](mailto:shumarb@outlook.com "Email")
